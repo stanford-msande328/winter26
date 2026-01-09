@@ -19,7 +19,7 @@ description: A theory course on recent techniques at the intersection of causal 
 author: Vasilis Syrgkanis
 baseurl: '/winter26' # the subpath of your site, e.g. /blog
 url: 'https://stanford-msande328.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "vendor/bundle"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
@@ -52,11 +52,6 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
   - scope:
       path: ''
       type: announcements
