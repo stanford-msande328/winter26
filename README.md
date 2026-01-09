@@ -13,7 +13,7 @@ seo:
 Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and (courtesy) CS & EE
 Units: 3  
 Winter Quarter 2026
-Friday 1:30-2:50PM (10min break) 3:00-4:20PM Turing Auditorium
+Friday 1:30-4:20PM Turing Auditorium
 
 **Description and Format:**  
 This is an advanced PhD course on modern theoretical topics at the intersection of causal inference, econometric theory and statistical learning theory. The course will consist of lectures, and student-led presentations. The course will also consist of a quarter long project which will involve a detailed literature review on a topic and either a replication of the methodology and the experimental results of a recent research paper or new methodological or theoretical developments on the topic of the project. The projects can be individual or in teams of up to three students.
