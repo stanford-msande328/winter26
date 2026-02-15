@@ -2,11 +2,15 @@
 title: Estimation and Inference on Causal Functions
 ---
 
-Feb 6
+Feb 20
 : **Lecture**{: .label .label-green } Background: Concentration Inequalities and Rademacher Complexity
 
+Feb 20
+: **Lecture**{: .label .label-green } Statistical Learning Theory
+: Rademacher complexity and Localized rademacher complexities and generalization bounds.
 
-Feb 13
+
+Feb 27
 : **Lecture**{: .label .label-green } Statistical Learning Theory for Heterogeneous Effects
 : Orthogonal statistical learning theory. Localized rademacher complexities and generalization bounds.
 : ***Required Reading Materials***
@@ -17,10 +21,13 @@ Feb 13
 - [Minimax rates for heterogeneous causal effect estimation](https://arxiv.org/abs/2203.00837)
 - [Treatment Heterogeneity for Survival Outcomes](https://arxiv.org/abs/2207.07758)
 
-Feb 13
+Feb 28
+: **Project Literature Review Due**{: .label .label-red }
+
+Mar 6
 : **Lecture**{: .label .label-green } Background: U-Statistics and Concentration
 
-Feb 20
+Mar 6
 : **Lecture**{: .label .label-green } Non-Parametric Confidence Intervals with Random Forests
 : Non-parametric confidence intervals, random forests and nearest neighbors. Proof of asymptotic linearity for kernel based moment estimators. Proof of bias for k-NN and (maybe proof of bias for Trees). Proof of confidence intervals with nuisance parameters and local orthogonality. 
 : ***Required Reading Materials***
@@ -32,6 +39,15 @@ Feb 20
 - [V-statistics and variance estimation](https://dl.acm.org/doi/abs/10.5555/3546258.3546545)
 
 
+Mar 13
+: **Lecture**{: .label .label-green } Student Presentations
+
+
+Mar 20
+: **Project Final Report Due**{: .label .label-red }
+
+<!-- 
+
 Feb 20
 : **Lecture**{: .label .label-green } Non-Parametric Learning and Conditional Moment Restrictions
 : Adversarial estimators for conditional moment restrictions. Statistical learning theory for adversarial estimators. Confidence intervals on functionals of endogenous regression functions. Proof of the rate for adversarial estimators based on the localized complexities. Proof of the auto-debiased approach for functionals of endogenous regressions.
@@ -42,4 +58,4 @@ Feb 20
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982)
 - [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
 - [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/abs/2111.06784)
-- [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332)
+- [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332) -->

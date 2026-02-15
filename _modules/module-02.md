@@ -3,7 +3,7 @@ title: Semi-Parametric Inference and Causal Estimation
 ---
 
 Jan 23
-: **Lecture**{: .label .label-green } Background: Convergence in Probability, Concentration of Measure and Central Limit Theorem
+: **Lecture**{: .label .label-green } Background: Convergence in Probability, Concentration of Measure and Central Limit Theorem, Parametric Inference
 
 Jan 30
 : **Project Proposal Due**{: .label .label-red }
@@ -23,7 +23,7 @@ Jan 30
 - [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
 
 
-Jan 30
+Feb 6
 : **Lecture**{: .label .label-green } Identification and Inference in Dynamic Regimes
 : Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
 : ***Required Reading Materials***
@@ -33,7 +33,7 @@ Jan 30
 - [Inference on Optimal Dynamic Policies via Softmax Approximation](https://arxiv.org/abs/2303.04416)
 - [Estimating the Long-Term Effects of Novel Treatments](https://arxiv.org/abs/2103.08390)
 
-Feb 6
+Feb 13
 : **Lecture**{: .label .label-green } Identification and Inference with Proxies and Instruments
 : Identification and inference of average treatment effects with unobserved confounding when we have access to either proxy controls or instrumental varialbes
 : ***Required Reading Materials***

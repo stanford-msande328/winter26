@@ -39,11 +39,6 @@ Jan 16
 - [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2291629)
 - [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091)
 
-Jan 23
-: **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
-: Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD) (syntheti controls?). 
-: ***Required Reading Materials***
-- [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
 
 
 
